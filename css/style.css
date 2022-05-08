@@ -1,0 +1,14 @@
+@media (max-width: 28.75em) {
+    .welcome-section {
+      
+      text-align: center;
+    }
+  }
+  
+  .welcome-section {
+    height: 100vh;  
+  }
+
+  .nav{
+    position: fixed;
+  }
