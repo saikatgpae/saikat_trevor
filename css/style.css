@@ -1,14 +1,8 @@
-@media (max-width: 28.75em) {
-    .welcome-section {
-      
-      text-align: center;
-    }
-  }
-  
-  .welcome-section {
-    height: 100vh;  
-  }
+#navbar {
+  position: fixed;
+}
 
-  .nav{
-    position: fixed;
-  }
+#welcome-section {
+  display: flex;
+  height: 100vh;
+}
